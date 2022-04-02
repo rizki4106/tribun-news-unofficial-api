@@ -12,6 +12,10 @@ git clone https://github.com/rizki4106/tribun-news-unofficial-api.git
 cd tribun-news-unofficial-api && go mod download
 ```
 
+```bash
+go run main.go
+```
+
 or run inside docker container
 
 ```bash
